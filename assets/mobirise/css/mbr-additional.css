@@ -3545,6 +3545,37 @@ body {
 .cid-qYzMJ9vmHQ LABEL {
   color: #ffffff;
 }
+.cid-qYCZOPyfjn {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qYCZOPyfjn [class^="socicon-"]:before,
+.cid-qYCZOPyfjn [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-qYCZOPyfjn .btn-social {
+  border-color: #149dcc;
+}
+.cid-qYCZOPyfjn .btn-social:hover {
+  background: #149dcc;
+}
+.cid-qYCZOPyfjn .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-qYCZOPyfjn .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-qYCZOPyfjn .btn-social,
+.cid-qYCZOPyfjn .mbr-section-title {
+  color: #ff3366;
+}
+.cid-qYCZOPyfjn .btn-social,
+.cid-qYCZOPyfjn .mbr-section-title B {
+  color: #009196;
+}
 .cid-qYzOhNkXAt {
   padding-top: 30px;
   padding-bottom: 15px;
